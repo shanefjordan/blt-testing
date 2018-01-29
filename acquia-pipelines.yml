@@ -13,6 +13,7 @@ events:
         - setup-env:
             type: script
             script:
+              - php -v
               - composer validate --no-check-all --ansi
               - composer install --ansi
               - source ${BLT_DIR}/scripts/pipelines/setup_env
