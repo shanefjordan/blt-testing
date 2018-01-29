@@ -1,6 +1,6 @@
 # My Project
 
-A brief description of My Project.
+This is a sample project for BLT.
 
 ## Getting Started
 
